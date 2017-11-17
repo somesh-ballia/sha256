@@ -4,6 +4,9 @@
 CMakeFiles/sha256.dir/main.cpp.o: ../main.cpp
 CMakeFiles/sha256.dir/main.cpp.o: ../sha256.h
 
+CMakeFiles/sha256.dir/md5.cpp.o: ../md5.cpp
+CMakeFiles/sha256.dir/md5.cpp.o: ../md5.h
+
 CMakeFiles/sha256.dir/sha256.cpp.o: ../sha256.cpp
 CMakeFiles/sha256.dir/sha256.cpp.o: ../sha256.h
 

@@ -83,6 +83,12 @@
 		<Unit filename="/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/main.cpp">
 			<Option target="sha256"/>
 		</Unit>
+		<Unit filename="/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/md5.cpp">
+			<Option target="sha256"/>
+		</Unit>
+		<Unit filename="/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/md5.h">
+			<Option target="sha256"/>
+		</Unit>
 		<Unit filename="/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/sha256.cpp">
 			<Option target="sha256"/>
 		</Unit>

@@ -31,8 +31,8 @@ protected:
     uint32 m_h[8];
 };
 
-std::string digestFile(std::string filePath);
-std::string digestString(std::string string);
+std::string digestFileSHA256(std::string filePath);
+std::string digestStringSHA256(std::string string);
 
 #define SHA2_SHFR(x, n)    (x >> n)
 #define SHA2_ROTR(x, n)   ((x >> n) | (x << ((sizeof(x) << 3) - n)))

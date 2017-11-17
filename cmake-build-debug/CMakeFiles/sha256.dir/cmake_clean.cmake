@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/sha256.dir/main.cpp.o"
   "CMakeFiles/sha256.dir/sha256.cpp.o"
+  "CMakeFiles/sha256.dir/md5.cpp.o"
   "sha256.pdb"
   "sha256"
 )

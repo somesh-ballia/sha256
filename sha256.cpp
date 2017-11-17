@@ -119,7 +119,7 @@ void SHA256::final(unsigned char *digest)
     }
 }
 
-std::string digestFile(std::string filePath) {
+std::string digestFileSHA256(std::string filePath) {
 
     unsigned char digest[SHA256::DIGEST_SIZE];
     memset(digest,0,SHA256::DIGEST_SIZE);
@@ -148,7 +148,7 @@ std::string digestFile(std::string filePath) {
 
 }
 
-std::string digestString(std::string string) {
+std::string digestStringSHA256(std::string string) {
     unsigned char digest[SHA256::DIGEST_SIZE];
     memset(digest,0,SHA256::DIGEST_SIZE);
 
