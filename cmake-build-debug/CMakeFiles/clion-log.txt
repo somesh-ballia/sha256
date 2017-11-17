@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/cmake-build-debug

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/main.cpp
+iostream
+-
+sha256.h
+/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/sha256.h
+
+/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/sha256.cpp
+sha256.h
+/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/sha256.h
+cstring
+-
+fstream
+-
+stdio.h
+-
+
+/Users/somesh.pathak/Grab/src/github.com/somesh-ballia/sha256/sha256.h
+string
+-
+
